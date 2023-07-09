@@ -1,0 +1,201 @@
+{
+  "app_title": " Makerstar Capital | 颠覆加密货币挖矿的未来",
+  "language": "语言",
+  "nav": {
+    "home": "首页",
+    "job_sites": "工作地点",
+    "mining_calculator": "挖矿计算器",
+    "team": "领导团队",
+    "invest_in_us": "投资我们",
+    "join_our_team": "加入我们的团队"
+  },
+  "features": {
+    "benefits_of_bitcoin": {
+      "title": "比特币的好处",
+      "content": "低手续费，快速交易，全球可用，抵抗通胀，投资潜力。"
+    },
+    "bitcoin_future": {
+      "title": "为何比特币是未来",
+      "content": "革新金融，增加安全性，支持全球经济。"
+    },
+    "secure": {
+      "title": "100% 安全",
+      "content": "不可更改的区块链，密码学，和去中心化的网络提供无与伦比的安全性。"
+    }
+  },
+  "sub_hero_headers": {
+    "0": {
+      "first_half": "探索我们",
+      "featured_words": "不断增长的",
+      "second_half": "站点位置列表"
+    },
+    "1": {
+      "first_half": "会见我们的",
+      "featured_words": "决策者",
+      "second_half": ""
+    },
+    "2": {
+      "first_half": "加入",
+      "featured_words": "比特币革命；",
+      "second_half": "现在就投资！"
+    },
+    "3": {
+      "first_half": "建立您的未来：",
+      "featured_words": "申请",
+      "second_half": "空缺职位"
+    }
+  },
+  "hero": {
+    "first_half": "构建金融",
+    "featured_words": "未来",
+    "second_half": "",
+    "sub_first_half": "我们的使命是通过创新的",
+    "sub_featured_words": "比特币挖矿基础设施",
+    "sub_second_half": "构建金融的未来。请加入我们，投资数字货币的下一代。"
+  },
+  "position_openings": {
+    "0": {
+      "position": "数据中心技术员",
+      "location": "梅里迪恩，密西西比州",
+      "description": "我们正在寻找一位经验丰富的技术员，负责在数据中心进行预防性维护检查（清洁，基本故障排除，检查）。一旦确定无法修复的设备，技术员将向站点经理报告以创建修理工单。技术员负责...",
+      "link": "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967"
+    }
+  },
+  "job_sites": {
+    "1": {
+      "location": "密西西比州，维克斯堡"
+    },
+    "2": {
+      "location": "密西西比州，梅里迪恩"
+    },
+    "3": {
+      "location": "密西西比州，韦金斯"
+    }
+  },
+  "stats": {
+    "2": {
+      "title": "已在密西西比部署",
+      "value": "31mW"
+    },
+    "3": {
+      "title": "年底前将增加",
+      "value": "+80mW"
+    }
+  },
+  "footerLinks": {
+    "0": {
+      "title": "有用的链接",
+      "links": {
+        "0": {
+          "name": "工作地点"
+        },
+        "1": {
+          "name": "计算器"
+        },
+        "2": {
+          "name": "联系我们"
+        },
+        "3": {
+          "name": "职业"
+        },
+        "4": {
+          "name": "条款和服务"
+        }
+      }
+    }
+  },
+  "footer_text": {
+    "title": "一块块释放比特币挖矿的力量。",
+    "copyright_one": "版权所有",
+    "copyright_two": "2023 Makerstar Capital, Inc. 保留所有权利。"
+  },
+  "bitcoin_component": {
+    "heading": "什么是比特币？",
+    "description": "比特币是一种独立于中央银行和其他金融机构运作的去中心化数字货币。它基于一种名为区块链的革命性技术，允许进行快速，安全，透明的交易，无需中间人。"
+  },
+  "live_bitcoin_price": "实时比特币价格",
+  "form_message": {
+    "name": "需要输入名称",
+    "email": "无效的电子邮件",
+    "message": "需要输入信息",
+    "alert": "您的信息已发送！",
+    "sent": "已发送！",
+    "send_success": "您的信息已发送！",
+    "your_name": "您的名字",
+    "your_email": "电子邮件地址",
+    "your_message": "信息",
+    "placeholder_name": "全名",
+    "placeholder_email": "电子邮件地址",
+    "placeholder_message": "在这里输入您的信息",
+    "send_button": "发送"
+  },
+  "cta": {
+    "title": "加入比特币挖矿的狂潮！",
+    "subtitle": "立即加入比特币挖矿的丰富世界，投资我们的创新公司！"
+  },
+  "get_started_component": {
+    "get": "开始",
+    "started": "开始"
+  },
+  "mining_component": {
+    "title_first": "什么是比特币挖矿",
+    "title_second": "为什么要做它？",
+    "subtitle": "比特币挖矿是验证交易并将其添加到区块链的过程，这需要强大的计算机。我们这样做是为了确保比特币的未来并帮助保护网络。"
+  },
+  "mining_difficulty_component": {
+    "title_first": "比特币挖矿",
+    "title_second": "的难度。",
+    "subtitle": "比特币挖矿的难度衡量挖掘新比特币的挑战性，每2周调整一次以确保10分钟的区块时间。随着更多矿工的竞争，难度会提高，确保网络安全。"
+  },
+  "environment_component": {
+    "title_first": "关于我们挖矿的",
+    "title_second": "环保事实。",
+    "subtitle_first": "我们的挖矿场地位于密西西比和乔治亚。密西西比电力公司是密西西比州最大的可再生能源合作伙伴，正在与四家太阳能企业和美国海军合作建设四个公用规模的太阳能设施。他们生成了超过",
+    "subtitle_second": "的电力，足以供应超过",
+    "subtitle_third": "一年的电力。密西西比电力公司也正在关注生物质能源，并在沿海地区寻求风能发电。乔治亚利用4个核反应器占据了",
+    "subtitle_fourth": "他们的总州电力。他们还在利用生物质进行电力发电，20%的可再生资源占2021年该州在内的电力净发电量的",
+    "subtitle_fifth": "超过十分之一。",
+    "subtitle_data_one": "160 MW",
+    "subtitle_data_two": "23,000个家庭",
+    "subtitle_data_three": "27%",
+    "subtitle_data_four": "十分之一"
+  },
+  "button": {
+    "cta": "现在开始挖矿",
+    "mining_difficulty": "估计挖矿收益",
+    "careers": "查看详细信息",
+    "calculator": "计算",
+    "load_more": "加载更多"
+  },
+  "calculator": {
+    "title": "比特币挖矿计算器",
+    "hash": "哈希率 (TH/s)",
+    "power": "功耗 (W)",
+    "kWh": "每千瓦时的成本 ($)",
+    "price": "BTC价格 ($)",
+    "results": {
+      "revenue": "每日收入：",
+      "cost": "每日电力成本：",
+      "profit": "每日利润："
+    }
+  },
+  "article": {
+    "title": "最新新闻",
+    "subtitle": "为了了解比特币世界的最新动态，可以阅读这些新闻文章。",
+    "read_more": ". . .阅读更多",
+    "end_of_feed": ". . .新闻源已经到底. . ."
+  },
+  "terms": {
+    "title": "服务条款",
+    "term_one": "1. 接受条款 ",
+    "paragraph_one": "在使用www.makerstarcapital.com网站或Makerstar Capital Inc.维护的任何其他网站（“网站”）之前，请阅读并接受Makerstar Capital Inc.的使用条款（“条款”）。如果你不同意所有的条款，请不要使用这个网站。Makerstar Capital Inc.可能会不时更新这些条款。每次你使用网站，你将按照使用时的条款进行操作。请在每次使用我们的网站之前检查这些条款。条款是由Makerstar Capital Inc.和你之间签订的。如果你当前已经有一份与Makerstar Capital Inc.签订的独立的书面购买或许可协议，那么该协议将在与这些条款冲突的情况下管理该服务的使用。",
+    "term_two": "2. 免责声明 ",
+    "paragraph_two": "尽管Makerstar Capital Inc.试图在网站上提供准确的信息，但Makerstar Capital Inc.对信息的准确性不承担任何责任。Makerstar Capital Inc.可能会随时更改所提及的程序或产品，而不需要提前通知。非Makerstar Capital Inc.的产品或服务的提及仅仅是为了信息的目的，并不构成对其的背书或推荐。这些材料“按原样”提供，没有任何明示或暗示的保证，包括但不限于对适销性、非侵权或适用于特定目的的保证。在任何情况下，对于由于使用或无法使用这些材料而造成的任何损害（包括但不限于利润损失、业务中断、信息丢失），Makerstar Capital Inc.以及其供应商或合作伙伴都不承担任何责任，即使Makerstar Capital Inc.已经被告知可能会发生此类损害。电子通信隐私法告示（18USC 2701-2711）：公司不对在网站或与网站链接的任何网站上传输或储存的任何通信或信息的保密性或隐私性做出任何保证。对于存储在公司设备上、通过网站访问的网络传输或以其他方式与订阅者使用服务连接的电子邮件地址、注册和识别信息、磁盘空间、通信、机密或商业秘密信息，或任何其他内容的隐私，公司不承担任何责任。",
+    "term_three": "3. 知识产权 ",
+    "paragraph_three": "本网站提供的所有内容，包括文本、数据、录音、声音、照片、图形、视频或其他材料（“材料”）由Makerstar Capital Inc.或其各自的制造商、作者、开发者和供应商（“第三方提供商”）提供，并为Makerstar Capital Inc.及/或第三方提供商的版权作品。除非得到Makerstar Capital Inc.或第三方提供商的明确授权，否则任何人不得以任何形式或方式，包括但不限于电子、机械、复印、录音或其他方式复制、再版、分发、再版、下载、显示、张贴或传输任何材料。未经Makerstar Capital Inc.事先明确书面许可，任何人不得在任何其他服务器上复制本网站上包含的任何材料，也不得使用任何Makerstar Capital Inc.的标记进行任何目的。“Makerstar Capital Inc.的标记”是指Makerstar Capital Inc.在其产品或服务中使用的任何名称、标记、品牌、logo、设计、口号、商标、服务标记和其他指定。认为其知识产权在网站上被侵犯的个人，可以联系Makerstar Capital Inc.并要求移除侵权材料或阻止访问它。Makerstar Capital Inc.将调查那些投诉。当Makerstar Capital Inc.确信侵权正在发生时，它将采取适当的行动。如果你认为你的知识产权正在被侵犯，请将你的索赔发送到：Makerstar Capital Inc.总法律顾问，Park Plaza STE 1230 Irvine, CA 92614。",
+    "term_four": "4. 商标 ",
+    "paragraph_four": "本网站上显示的商标、标志和服务标记（“标记”）是Makerstar Capital Inc.或其他第三方的财产。未经Makerstar Capital Inc.或可能拥有这些标记的第三方的事先书面同意，用户不得使用这些标记。",
+    "term_five": "5. 第三方网站链接 ",
+    "paragraph_five": "本网站可能包含到第三方网站的链接。访问与本网站链接的任何其他互联网网站都是用户自己的风险，Makerstar Capital Inc.对这些网站上的任何信息、数据、观点、建议或声明的准确性或可靠性不承担任何责任。Makerstar Capital Inc.仅为了方便提供这些链接，包含这样的链接并不意味着赞同。"
+  }
+}
