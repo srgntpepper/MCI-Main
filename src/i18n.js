@@ -92,7 +92,7 @@ i18next
           stats: {
             2: {
               title: "Deployed in MS",
-              value: "31mW",
+              value: "43mW",
             },
             3: {
               title: "More by End-Of-Year",
@@ -317,7 +317,7 @@ i18next
           stats: {
             2: {
               title: "Desplegado en MS",
-              value: "31mW",
+              value: "43mW",
             },
             3: {
               title: "Más para Fin de Año",
@@ -543,7 +543,7 @@ i18next
           stats: {
             2: {
               title: "Einsatz in MS",
-              value: "31mW",
+              value: "43mW",
             },
             3: {
               title: "Mehr bis Ende des Jahres",
@@ -769,7 +769,7 @@ i18next
           stats: {
             2: {
               title: "Déployé en MS",
-              value: "31mW",
+              value: "43mW",
             },
             3: {
               title: "Plus d'ici fin d'année",
@@ -993,7 +993,7 @@ i18next
           stats: {
             2: {
               title: "Implementato in MS",
-              value: "31mW",
+              value: "43mW",
             },
             3: {
               title: "Di più entro fine anno",
@@ -1218,7 +1218,7 @@ i18next
           stats: {
             2: {
               title: "Implementado em MS",
-              value: "31mW",
+              value: "43mW",
             },
             3: {
               title: "Mais até o Final do Ano",
@@ -1445,7 +1445,7 @@ i18next
           stats: {
             2: {
               title: "Реализовано в МС",
-              value: "31mW",
+              value: "43mW",
             },
             3: {
               title: "Больше к концу года",
@@ -1666,7 +1666,7 @@ i18next
           stats: {
             2: {
               title: "已在密西西比部署",
-              value: "31mW",
+              value: "43mW",
             },
             3: {
               title: "年底前将增加",
