@@ -27,7 +27,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="w-full flex py-6 justify-between items-center navbar animate-fadeIn">
+    <nav className="w-full flex py-6 justify-between items-center animate-fadeIn">
       {/* Logo code */}
       {isXsScreenOrMore ? (
         <Link to="/">

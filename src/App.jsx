@@ -45,9 +45,9 @@ const App = () => {
   }, [currentLanguage, t]);
 
   return (
-    <div className="w-full bg-primary overflow-hidden">
+    <div className="w-full bg-primary">
       <div
-        className={`bg-primary w-full ${styles.paddingX} ${styles.flexCenter} mx-auto z-30 relative`}
+        className={`bg-primary w-full ${styles.paddingX} ${styles.flexCenter} mx-auto  sticky top-0 z-50`}
       >
         <div className={` ${styles.boxWidth}`}>
           <Navbar />

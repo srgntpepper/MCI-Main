@@ -23,15 +23,19 @@ const Footer = () => {
         isVisible ? "animate-endFadeIn" : "animate-fadeOut"
       }`}
     >
-      <div className={`${styles.flexStart} md:flex-row flex-col mb-8 w-full`}>
-        <div className="flex flex-1 flex-col justify-start mr-10">
+      <div
+        className={`flex justify-center items-center md:flex-row flex-col mb-8 w-full`}
+      >
+        <div className="flex flex-1 flex-col justify-center items-center">
           <img
             loading="lazy"
             src={logo03T}
             alt="Makerstar Logo"
-            className="w-[266px] h-[72px] object-contain"
+            className="w-[266px] h-[72px] object-contain hidden md:block"
           />
-          <p className={`${styles.paragraph} mt-4 max-w-[310px]`}>
+          <p
+            className={`${styles.paragraph} text-center mt-0 xs:w-full w-[280px]`}
+          >
             {t("footer_text.title")}
           </p>
         </div>
@@ -64,7 +68,7 @@ const Footer = () => {
       </div>
 
       <div
-        className={`w-full flex justify-between items-center md:flex-row flex-col pt-1 border-t-[1px] border-t-[#3F3E45] ${
+        className={`w-full flex justify-between items-center md:flex-row  flex-col pt-1 border-t-[1px] border-t-[#3F3E45] ${
           isVisible ? "animate-endFadeUp" : "opacity-0"
         }`}
       >
@@ -82,13 +86,16 @@ const Footer = () => {
         </div> */}
         <div className="flex flex-row w-full md:order-1 md:mt-0 mt-6">
           {footerLinks.map((footerLink) => (
-            <div key={footerLink.id} className="w-full">
-              <ul className="list-none mt-4 flex flex-col sm:flex-row justify-between">
+            <div
+              key={footerLink.id}
+              className="w-full items-center justify-center"
+            >
+              <ul className="list-none flex flex-col md:flex-row justify-end items-center ">
                 {footerLink.links.map((link, index) => (
                   <li
                     id={link.name}
                     key={link.name}
-                    className={`font-poppins font-normal text-[12px] leading-[24px] text-dimWhite text-center sm:text-left hover:text-makerGold hover:tracking-wide duration-200 cursor-pointer ${
+                    className={`font-poppins font-normal text-[12px] leading-[24px] text-dimWhite text-center md:text-left hover:text-makerGold hover:tracking-wide duration-200 cursor-pointer ${
                       index !== footerLink.links.length - 1 ? "mb-4" : "mb-0"
                     }`}
                   >
@@ -99,7 +106,7 @@ const Footer = () => {
             </div>
           ))}
         </div>
-        <p className="font-poppins font-normal sm:text-start text-center text-[12px] leading-[24px] text-dimWhite pt-1 w-full">
+        <p className="font-poppins font-normal md:text-start text-center text-[12px] leading-[24px] text-dimWhite pt-1 w-full">
           {t("footer_text.copyright_one")} &copy;{" "}
           {t("footer_text.copyright_two")}
         </p>

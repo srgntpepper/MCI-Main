@@ -77,6 +77,13 @@ i18next
                 "We’re looking for an experienced Technician who is responsible for completing preventative maintenance checks throughout data center (cleaning, basic troubleshooting, inspection). Once unit(s) are identified as unrepairable, the tech will report to Site Manager to create repair ticket. Techs are responsible for...",
               link: "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967",
             },
+            1: {
+              position: "Data Center Technician",
+              location: "Leachville, AR",
+              description:
+                "We’re looking for an experienced Technician who is responsible for completing preventative maintenance checks throughout data center (cleaning, basic troubleshooting, inspection). Once unit(s) are identified as unrepairable, the tech will report to Site Manager to create repair ticket. Techs are responsible for...",
+              link: "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967",
+            },
           },
           job_sites: {
             1: {
@@ -300,7 +307,14 @@ i18next
               location: "Meridian, MS",
               description:
                 "Buscamos un Técnico con experiencia que se encargará de realizar controles de mantenimiento preventivo en todo el centro de datos (limpieza, solución de problemas básicos, inspección). Una vez que se identifique que la unidad no es reparable, el técnico informará al Gerente del Sitio para crear un ticket de reparación. Los técnicos son responsables de...",
-              link: "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967",
+              //link: "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967",
+            },
+            1: {
+              position: "Técnico de Centro de Datos",
+              location: "Leachville, AR",
+              description:
+                "Buscamos un Técnico con experiencia que se encargará de realizar controles de mantenimiento preventivo en todo el centro de datos (limpieza, solución de problemas básicos, inspección). Una vez que se identifique que la unidad no es reparable, el técnico informará al Gerente del Sitio para crear un ticket de reparación. Los técnicos son responsables de...",
+              //link: "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967",
             },
           },
           job_sites: {
@@ -524,6 +538,13 @@ i18next
             0: {
               position: "Techniker im Rechenzentrum",
               location: "Meridian, MS",
+              description:
+                "Wir suchen einen erfahrenen Techniker, der für regelmäßige Wartungschecks im gesamten Rechenzentrum verantwortlich ist (Reinigung, grundlegende Fehlerbehebung, Inspektion). Wenn eine Einheit als nicht reparabel identifiziert wird, meldet der Techniker dies an den Standortleiter, um ein Reparaturticket zu erstellen. Techniker sind verantwortlich für...",
+              link: "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967",
+            },
+            1: {
+              position: "Techniker im Rechenzentrum",
+              location: "Leachville, AR",
               description:
                 "Wir suchen einen erfahrenen Techniker, der für regelmäßige Wartungschecks im gesamten Rechenzentrum verantwortlich ist (Reinigung, grundlegende Fehlerbehebung, Inspektion). Wenn eine Einheit als nicht reparabel identifiziert wird, meldet der Techniker dies an den Standortleiter, um ein Reparaturticket zu erstellen. Techniker sind verantwortlich für...",
               link: "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967",
@@ -754,6 +775,13 @@ i18next
                 "Nous recherchons un technicien expérimenté responsable de l'exécution des contrôles de maintenance préventive dans tout le centre de données (nettoyage, dépannage de base, inspection). Une fois que les unités sont identifiées comme irréparables, le technicien signalera au gestionnaire de site pour créer un ticket de réparation. Les techniciens sont responsables de...",
               link: "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967",
             },
+            1: {
+              position: "Technicien de centre de données",
+              location: "Leachville, AR",
+              description:
+                "Nous recherchons un technicien expérimenté responsable de l'exécution des contrôles de maintenance préventive dans tout le centre de données (nettoyage, dépannage de base, inspection). Une fois que les unités sont identifiées comme irréparables, le technicien signalera au gestionnaire de site pour créer un ticket de réparation. Les techniciens sont responsables de...",
+              link: "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967",
+            },
           },
           job_sites: {
             1: {
@@ -974,6 +1002,13 @@ i18next
             0: {
               position: "Tecnico del Data Center",
               location: "Meridian, MS",
+              description:
+                "Stiamo cercando un Tecnico esperto che sia responsabile per l'esecuzione di controlli di manutenzione preventiva in tutto il data center (pulizia, risoluzione dei problemi di base, ispezione). Una volta identificati i dispositivi non riparabili, il tecnico lo segnalerà al Manager del sito per creare un ticket di riparazione. I tecnici sono responsabili per...",
+              link: "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967",
+            },
+            1: {
+              position: "Tecnico del Data Center",
+              location: "Leachville, AR",
               description:
                 "Stiamo cercando un Tecnico esperto che sia responsabile per l'esecuzione di controlli di manutenzione preventiva in tutto il data center (pulizia, risoluzione dei problemi di base, ispezione). Una volta identificati i dispositivi non riparabili, il tecnico lo segnalerà al Manager del sito per creare un ticket di riparazione. I tecnici sono responsabili per...",
               link: "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967",
@@ -1199,6 +1234,13 @@ i18next
             0: {
               position: "Técnico de Centro de Dados",
               location: "Meridian, MS",
+              description:
+                "Estamos à procura de um Técnico experiente que será responsável por realizar verificações de manutenção preventiva em todo o centro de dados (limpeza, solução de problemas básica, inspeção). Quando unidades são identificadas como irreparáveis, o técnico reportará ao Gerente do Site para criar um ticket de reparo. Os técnicos são responsáveis por...",
+              link: "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967",
+            },
+            1: {
+              position: "Técnico de Centro de Dados",
+              location: "Leachville, AR",
               description:
                 "Estamos à procura de um Técnico experiente que será responsável por realizar verificações de manutenção preventiva em todo o centro de dados (limpeza, solução de problemas básica, inspeção). Quando unidades são identificadas como irreparáveis, o técnico reportará ao Gerente do Site para criar um ticket de reparo. Os técnicos são responsáveis por...",
               link: "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967",
@@ -1430,6 +1472,13 @@ i18next
                 "Мы ищем опытного техника, который будет отвечать за проведение проверок предупредительного обслуживания по всему центру данных (уборка, решение базовых проблем, инспекция). Когда устройства определяются как неремонтопригодные, техник сообщит об этом Менеджеру сайта для создания заявки на ремонт. Техники отвечают за...",
               link: "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967",
             },
+            1: {
+              position: "Техник Центра Данных",
+              location: "Личвилль, АР",
+              description:
+                "Мы ищем опытного техника, который будет отвечать за проведение проверок предупредительного обслуживания по всему центру данных (уборка, решение базовых проблем, инспекция). Когда устройства определяются как неремонтопригодные, техник сообщит об этом Менеджеру сайта для создания заявки на ремонт. Техники отвечают за...",
+              link: "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967",
+            },
           },
           job_sites: {
             1: {
@@ -1647,6 +1696,13 @@ i18next
             0: {
               position: "数据中心技术员",
               location: "梅里迪恩，密西西比州",
+              description:
+                "我们正在寻找一位经验丰富的技术员，负责在数据中心进行预防性维护检查（清洁，基本故障排除，检查）。一旦确定无法修复的设备，技术员将向站点经理报告以创建修理工单。技术员负责...",
+              link: "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967",
+            },
+            1: {
+              position: "数据中心技术员",
+              location: "雷奇维尔, 阿肯色",
               description:
                 "我们正在寻找一位经验丰富的技术员，负责在数据中心进行预防性维护检查（清洁，基本故障排除，检查）。一旦确定无法修复的设备，技术员将向站点经理报告以创建修理工单。技术员负责...",
               link: "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967",

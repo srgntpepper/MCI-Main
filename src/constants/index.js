@@ -153,7 +153,14 @@ export const positionOpenings = [
     position: "position_openings.0.position",
     location: "position_openings.0.location",
     description: "position_openings.0.description",
-    link: "position_openings.0.link",
+    link: "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967",
+  },
+  {
+    id: 1,
+    position: "position_openings.1.position",
+    location: "position_openings.1.location",
+    description: "position_openings.1.description",
+    link: "https://www.indeed.com/job/data-center-technician-8903ccc4e54d1b77",
   },
 ];
 
@@ -254,26 +261,26 @@ export const footerLinks = [
       //   name: "Explore",
       //   link: "https://https://makerstarcapital.com/explore/",
       // },
-      {
-        name: "footerLinks.0.links.0.name",
-        link: "job-sites",
-      },
+      // {
+      //   name: "footerLinks.0.links.0.name",
+      //   link: "job-sites",
+      // },
       // {
       //   name: "Team",
       //   link: "team",
       // },
-      {
-        name: "footerLinks.0.links.1.name",
-        link: "calculator",
-      },
-      {
-        name: "footerLinks.0.links.2.name",
-        link: "invest",
-      },
-      {
-        name: "footerLinks.0.links.3.name",
-        link: "careers",
-      },
+      // {
+      //   name: "footerLinks.0.links.1.name",
+      //   link: "calculator",
+      // },
+      // {
+      //   name: "footerLinks.0.links.2.name",
+      //   link: "invest",
+      // },
+      // {
+      //   name: "footerLinks.0.links.3.name",
+      //   link: "careers",
+      // },
       {
         name: "footerLinks.0.links.4.name",
         link: "terms-of-service",
