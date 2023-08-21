@@ -1,0 +1,201 @@
+{
+  "app_title": "Makerstar Capital | Revolucionando la Minería de Criptomonedas",
+  "language": "Idioma",
+  "nav": {
+    "home": "Inicio",
+    "job_sites": "Sitios de Trabajo",
+    "mining_calculator": "Calculadora de Minería",
+    "team": "Equipo de Liderazgo",
+    "invest_in_us": "Invierte en Nosotros",
+    "join_our_team": "Únete a Nuestro Equipo"
+  },
+  "features": {
+    "benefits_of_bitcoin": {
+      "title": "Beneficios de Bitcoin",
+      "content": "Bajas comisiones, transacciones rápidas, accesibilidad global, resistencia a la inflación y potencial de inversión."
+    },
+    "bitcoin_future": {
+      "title": "Por qué Bitcoin es el Futuro",
+      "content": "Revoluciona las finanzas, aumenta la seguridad y apoya la economía global."
+    },
+    "secure": {
+      "title": "100% Seguro",
+      "content": "Blockchain inmutable, criptografía y red descentralizada proporcionan una seguridad incomparable."
+    }
+  },
+  "sub_hero_headers": {
+    "0": {
+      "first_half": "Descubre Nuestra",
+      "featured_words": "Lista en Crecimiento",
+      "second_half": "de Ubicaciones de Sitios"
+    },
+    "1": {
+      "first_half": "Conoce a Nuestros",
+      "featured_words": "Tomadores de Decisiones",
+      "second_half": ""
+    },
+    "2": {
+      "first_half": "Únete a la",
+      "featured_words": "Revolución de Bitcoin;",
+      "second_half": "¡Invierte Ahora!"
+    },
+    "3": {
+      "first_half": "Construye Tu Futuro:",
+      "featured_words": "Solicita",
+      "second_half": "Posiciones Abiertas"
+    }
+  },
+  "hero": {
+    "first_half": "Construyendo el",
+    "featured_words": "Futuro",
+    "second_half": " de las Finanzas",
+    "sub_first_half": "Nuestra misión es construir el futuro de las finanzas a través de una innovadora",
+    "sub_featured_words": "infraestructura de minería de bitcoin.",
+    "sub_second_half": "Únete a nosotros para invertir en la próxima generación de moneda digital."
+  },
+  "position_openings": {
+    "0": {
+      "position": "Técnico de Centro de Datos",
+      "location": "Meridian, MS",
+      "description": "Buscamos un Técnico con experiencia que se encargará de realizar controles de mantenimiento preventivo en todo el centro de datos (limpieza, solución de problemas básicos, inspección). Una vez que se identifique que la unidad no es reparable, el técnico informará al Gerente del Sitio para crear un ticket de reparación. Los técnicos son responsables de...",
+      "link": "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967"
+    }
+  },
+  "job_sites": {
+    "1": {
+      "location": "VicksBurg, MS"
+    },
+    "2": {
+      "location": "Meridian, MS"
+    },
+    "3": {
+      "location": "Wiggins, MS"
+    }
+  },
+  "stats": {
+    "2": {
+      "title": "Desplegado en MS",
+      "value": "43mW"
+    },
+    "3": {
+      "title": "Más para Fin de Año",
+      "value": "+80mW"
+    }
+  },
+  "footerLinks": {
+    "0": {
+      "title": "Enlaces Útiles",
+      "links": {
+        "0": {
+          "name": "Sitios de Trabajo"
+        },
+        "1": {
+          "name": "Calculadora"
+        },
+        "2": {
+          "name": "Contacto"
+        },
+        "3": {
+          "name": "Carreras"
+        },
+        "4": {
+          "name": "Términos y Servicios"
+        }
+      }
+    }
+  },
+  "footer_text": {
+    "title": "Liberando el Poder de la Minería de Bitcoin, Un Bloque a la Vez.",
+    "copyright_one": "Derechos de Autor",
+    "copyright_two": "2023 Makerstar Capital, Inc. Todos los Derechos Reservados."
+  },
+  "bitcoin_component": {
+    "heading": "¿Qué es Bitcoin?",
+    "description": "Bitcoin es una moneda digital descentralizada que opera independientemente de los bancos centrales y otras instituciones financieras. Se basa en una tecnología revolucionaria llamada blockchain que permite transacciones rápidas, seguras y transparentes sin la necesidad de intermediarios."
+  },
+  "live_bitcoin_price": "Precio Actual de Bitcoin",
+  "form_message": {
+    "name": "Se requiere nombre",
+    "email": "Correo electrónico inválido",
+    "message": "Se requiere un mensaje",
+    "alert": "¡Tu mensaje ha sido enviado!",
+    "sent": "¡enviado!",
+    "send_success": "¡Tu mensaje ha sido enviado!",
+    "your_name": "Tu Nombre",
+    "your_email": "Dirección de Correo Electrónico",
+    "your_message": "Mensaje",
+    "placeholder_name": "Nombre Completo",
+    "placeholder_email": "Dirección de Correo Electrónico",
+    "placeholder_message": "Escribe tu mensaje aquí",
+    "send_button": "ENVIAR"
+  },
+  "cta": {
+    "title": "¡Únete a la Fiebre de la Minería de Bitcoin!",
+    "subtitle": "¡Únete al lucrativo mundo de la minería de Bitcoin e invierte en nuestra innovadora compañía hoy!"
+  },
+  "get_started_component": {
+    "get": "Comienza",
+    "started": "Ahora"
+  },
+  "mining_component": {
+    "title_first": "¿Qué es la Minería de Bitcoin",
+    "title_second": "y Por Qué Hacerlo?",
+    "subtitle": "La minería de Bitcoin es el proceso de verificar transacciones y agregarlas a la blockchain, lo cual requiere computadoras potentes. Lo hacemos para asegurar el futuro de Bitcoin y ayudar a asegurar la red."
+  },
+  "mining_difficulty_component": {
+    "title_first": "La Dificultad de la Minería",
+    "title_second": "de Bitcoin.",
+    "subtitle": "La dificultad de la minería de Bitcoin mide el desafío de minar nuevos Bitcoin, ajustándose cada 2 semanas para tiempos de bloque de 10 minutos. La dificultad aumenta a medida que más mineros compiten, asegurando la seguridad de la red."
+  },
+  "environment_component": {
+    "title_first": "Hechos Ambientalmente Amigables",
+    "title_second": "Sobre Nuestra Minería.",
+    "subtitle_first": "Nuestros sitios de minería están ubicados en Mississippi y Georgia. Mississippi Power es el mayor socio en energía renovable en Mississippi y está colaborando con cuatro empresas de energía solar y la Marina de los EE. UU. para construir cuatro instalaciones solares a escala de servicios públicos. Generan más de",
+    "subtitle_second": "de electricidad, suficiente para alimentar más de",
+    "subtitle_third": "durante un año. Mississippi Power también se está enfocando en la energía de biomasa y está buscando la generación de energía eólica en áreas costeras. Georgia utiliza 4 reactores nucleares que representan el",
+    "subtitle_fourth": "de su poder estatal total. También están liderando en generación de electricidad a partir de biomasa, con recursos renovables del 20% que representan más del",
+    "subtitle_fifth": "de la generación neta total de electricidad en el estado en 2021.",
+    "subtitle_data_one": "160 MW",
+    "subtitle_data_two": "23,000 hogares",
+    "subtitle_data_three": "27%",
+    "subtitle_data_four": "una décima parte"
+  },
+  "button": {
+    "cta": "Comienza a Minar Ahora",
+    "mining_difficulty": "Estimar Retornos de Minería",
+    "careers": "Ver Detalles",
+    "calculator": "Calcular",
+    "load_more": "Cargar Más"
+  },
+  "calculator": {
+    "title": "Calculadora de Minería de Bitcoin",
+    "hash": "Tasa de hash (TH/s)",
+    "power": "Consumo de energía (W)",
+    "kWh": "Costo por kWh ($)",
+    "price": "Precio de BTC ($)",
+    "results": {
+      "revenue": "Ingresos Diarios:",
+      "cost": "Costo de Energía Diario:",
+      "profit": "Beneficio Diario:"
+    }
+  },
+  "article": {
+    "title": "Noticias Recientes",
+    "subtitle": "Para mantenerte informado sobre los últimos acontecimientos en el mundo del bitcoin, echa un vistazo a estos artículos de noticias.",
+    "read_more": ". . . Leer Más",
+    "end_of_feed": ". . .Fin de la Alimentación de Noticias. . ."
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "term_one": "1. ACEPTACIÓN DE TÉRMINOS ",
+    "paragraph_one": "Por favor, lea y acepte los Términos de Uso de Makerstar Capital Inc. (“Términos”) antes de utilizar el sitio web www.makerstarcapital.com o cualquier otro sitio web mantenido por Makerstar Capital Inc. (“Sitio web”). Si no está de acuerdo con todos los Términos, no utilice este sitio web. Makerstar Capital Inc. puede actualizar estos Términos de vez en cuando. Cada vez que utilice el Sitio web, estará operando bajo los Términos que existen en el momento de uso. Por favor, consulte estos términos antes de cada uso de nuestro Sitio web. Los Términos son acordados por y entre Makerstar Capital Inc. y usted. Si actualmente tiene en vigor un acuerdo de compra o licencia por escrito con Makerstar Capital Inc. para un servicio, ese acuerdo regirá el uso de ese servicio en la medida en que entre en conflicto con estos Términos.",
+    "term_two": "2. DESCARGO DE RESPONSABILIDAD ",
+    "paragraph_two": "Aunque Makerstar Capital Inc. ha intentado proporcionar información precisa en el Sitio web, Makerstar Capital Inc. no asume ninguna responsabilidad por la exactitud de la información. Makerstar Capital Inc. puede cambiar los programas o productos mencionados en cualquier momento sin previo aviso. La mención de productos o servicios que no son de Makerstar Capital Inc. es solo para fines informativos y no constituye ni un respaldo ni una recomendación. LOS MATERIALES SE PROPORCIONAN “TAL CUAL” SIN NINGUNA GARANTÍA EXPRESA O IMPLÍCITA DE NINGÚN TIPO, INCLUYENDO GARANTÍAS DE COMERCIABILIDAD, NO INFRACCIÓN DE LA PROPIEDAD INTELECTUAL O ADECUACIÓN PARA UN PROPÓSITO PARTICULAR. EN NINGÚN CASO SERÁ RESPONSABLE MAKERSTAR CAPITAL INC. O SUS PROVEEDORES O SOCIOS POR CUALQUIER DAÑO QUE RESULTE DEL USO O LA INHABILIDAD PARA USAR LOS MATERIALES, INCLUSO SI MAKERSTAR CAPITAL INC. HA SIDO ADVERTIDO DE LA POSIBILIDAD DE DICHOS DAÑOS. AVISO DE LA LEY DE PRIVACIDAD DE COMUNICACIONES ELECTRÓNICAS (18USC 2701-2711): LA EMPRESA NO GARANTIZA LA CONFIDENCIALIDAD O PRIVACIDAD DE CUALQUIER COMUNICACIÓN O INFORMACIÓN TRANSMITIDA EN EL SITIO O CUALQUIER SITIO WEB VINCULADO AL SITIO WEB. La Compañía no será responsable de la privacidad de las direcciones de correo electrónico, información de registro e identificación, espacio en disco, comunicaciones, información confidencial o secreto comercial, o cualquier otro Contenido almacenado en el equipo de la Compañía, transmitido a través de redes accesibles por el Sitio, o de otra manera conectado con el uso del Servicio por parte del Suscriptor.",
+    "term_three": "3. DERECHOS DE PROPIEDAD INTELECTUAL ",
+    "paragraph_three": "Todo el contenido, incluyendo texto, datos, grabaciones de sonido, sonido, fotografías, gráficos, video o otros materiales (“Material”) proporcionado en este Sitio web es proporcionado por o a Makerstar Capital Inc. por sus respectivos fabricantes, autores, desarrolladores y proveedores (los “Proveedores de Terceros”) y es la obra con derechos de autor de Makerstar Capital Inc. y/o los Proveedores de Terceros. Excepto como está expresamente autorizado por Makerstar Capital Inc. o el Proveedor de Terceros, ninguno de los Materiales puede ser copiado, reproducido, distribuido, republicado, descargado, exhibido, publicado o transmitido en ninguna forma o por ningún medio, incluyendo, pero no limitado a, electrónico, mecánico, fotocopiado, grabado, o de otro modo. Ninguna parte del Sitio web, incluyendo logos, gráficos, sonidos o imágenes, puede ser reproducida o retransmitida de ninguna manera, o por cualquier medio, sin el previo permiso escrito de Makerstar Capital Inc. También no puede, sin el previo permiso escrito de Makerstar Capital Inc., copiar cualquier Material contenido en este Sitio web en cualquier otro servidor, o utilizar cualquier Marca de Makerstar Capital Inc. para cualquier propósito. “Marcas de Makerstar Capital Inc.” se refiere a cualquier nombre, marca, marca comercial, logo, diseño, slogan, trademarks, marcas de servicio y otras designaciones que Makerstar Capital Inc. utiliza en relación con sus productos o servicios. Las personas que creen que sus derechos de propiedad intelectual han sido infringidos en el Sitio web, pueden ponerse en contacto con Makerstar Capital Inc. y solicitar que el material infractor sea removido o que se bloquee el acceso al mismo. Makerstar Capital Inc. investigará esas quejas. Cuando Makerstar Capital Inc. está satisfecho de que se está produciendo la infracción, tomará las medidas apropiadas. Si cree que sus derechos de propiedad intelectual están siendo infringidos, por favor dirija sus reclamaciones a: Asesor General, Makerstar Capital Inc., Park Plaza STE 1230 Irvine, CA 92614.",
+    "term_four": "4. MARCAS REGISTRADAS ",
+    "paragraph_four": "Las marcas registradas, logos y marcas de servicio (“Marcas”) exhibidas en este Sitio web son propiedad de Makerstar Capital Inc. o de terceros. No se permite a los usuarios usar estas Marcas sin el consentimiento previo por escrito de Makerstar Capital Inc. o de dicho tercero que pueda ser el propietario de la Marca.",
+    "term_five": "5. ENLACES A SITIOS DE TERCEROS ",
+    "paragraph_five": "Este Sitio web puede contener enlaces a sitios de terceros. El acceso a cualquier otro sitio de Internet vinculado a este Sitio web es bajo el propio riesgo del usuario y Makerstar Capital Inc. no es responsable de la precisión o confiabilidad de cualquier información, datos, opiniones, consejos o declaraciones hechas en estos sitios. Makerstar Capital Inc. proporciona estos enlaces solo por conveniencia y la inclusión de tales enlaces no implica un respaldo."
+  }
+}

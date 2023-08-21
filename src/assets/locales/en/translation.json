@@ -1,0 +1,201 @@
+{
+  "app_title": " Makerstar Capital | Revolutionizing Crypto Mining",
+  "language": "Language",
+  "nav": {
+    "home": "Test",
+    "job_sites": "Job Sites",
+    "mining_calculator": "Mining Calculator",
+    "team": "Leadership Team",
+    "invest_in_us": "Invest In Us",
+    "join_our_team": "Join Our Team"
+  },
+  "features": {
+    "benefits_of_bitcoin": {
+      "title": "Benefits of Bitcoin",
+      "content": "Low fees, fast transactions, global accessibility, inflation resistance, and investment potential."
+    },
+    "bitcoin_future": {
+      "title": "Why Bitcoin is the Future",
+      "content": "Revolutionizes finance,increases security, and supportsglobal economy."
+    },
+    "secure": {
+      "title": "100% Secure",
+      "content": "Immutable blockchain,cryptography, and decentralizednetwork provide unparalleledsecurity."
+    }
+  },
+  "sub_hero_headers": {
+    "0": {
+      "first_half": "Discover Our",
+      "featured_words": "Growing List",
+      "second_half": "of Site Locations"
+    },
+    "1": {
+      "first_half": "Meet Our",
+      "featured_words": "Decision Makers",
+      "second_half": ""
+    },
+    "2": {
+      "first_half": "Join the",
+      "featured_words": "Bitcoin Revolution;",
+      "second_half": "Invest Now!"
+    },
+    "3": {
+      "first_half": "Build Your Future:",
+      "featured_words": "Apply",
+      "second_half": "for Open Positions"
+    }
+  },
+  "hero": {
+    "first_half": "Building the ",
+    "featured_words": "Future",
+    "second_half": "  of Finance",
+    "sub_first_half": "Our mission is to build the future of finance through innovative",
+    "sub_featured_words": "bitcoin mining infrastructure.",
+    "sub_second_half": "Join us in investing in the next generation of digital currency."
+  },
+  "position_openings": {
+    "0": {
+      "position": "Data Center Technician",
+      "location": "Meridian, MS",
+      "description": "We’re looking for an experienced Technician who is responsible for completing preventative maintenance checks throughout data center (cleaning, basic troubleshooting, inspection). Once unit(s) are identified as unrepairable, the tech will report to Site Manager to create repair ticket. Techs are responsible for...",
+      "link": "https://www.indeed.com/job/data-center-technician-3733bab170b1abb1?_ga=2.57638639.479615685.1680209229-1695951322.1679956967"
+    }
+  },
+  "job_sites": {
+    "1": {
+      "location": "VicksBurg, MS"
+    },
+    "2": {
+      "location": "Meridian, MS"
+    },
+    "3": {
+      "location": "Wiggins, MS"
+    }
+  },
+  "stats": {
+    "2": {
+      "title": "Deployed in MS",
+      "value": "43mW"
+    },
+    "3": {
+      "title": "More by End-Of-Year",
+      "value": "+80mW"
+    }
+  },
+  "footerLinks": {
+    "0": {
+      "title": "Useful Links",
+      "links": {
+        "0": {
+          "name": "Job Sites"
+        },
+        "1": {
+          "name": "Calculator"
+        },
+        "2": {
+          "name": "Contact"
+        },
+        "3": {
+          "name": "Careers"
+        },
+        "4": {
+          "name": "Terms & Services"
+        }
+      }
+    }
+  },
+  "footer_text": {
+    "title": "Unleashing the Power of Bitcoin Mining, One Block at a Time.",
+    "copyright_one": "Copyright",
+    "copyright_two": "2023 Makerstar Capital, Inc. All Rights Reserved."
+  },
+  "bitcoin_component": {
+    "heading": "What is Bitcoin?",
+    "description": "Bitcoin is a decentralized digital currency that operates independently of central banks and other financial institutions. It's based on a revolutionary technology called blockchain that allows for fast, secure, and transparent transactions without the need for intermediaries."
+  },
+  "live_bitcoin_price": "Live Bitcoin Price",
+  "form_message": {
+    "name": "Name is required",
+    "email": "Invalid email",
+    "message": "A message is required",
+    "alert": "Your message has been sent!",
+    "sent": "sent!",
+    "send_success": "Your message has been sent!",
+    "your_name": "Your Name",
+    "your_email": "Email Address",
+    "your_message": "Message",
+    "placeholder_name": "Full Name",
+    "placeholder_email": "Email Address",
+    "placeholder_message": "Type your message here",
+    "send_button": "SEND"
+  },
+  "cta": {
+    "title": "Join the Bitcoin Mining Rush!",
+    "subtitle": "Join the lucrative world of Bitcoin mining and invest in our innovative company today!"
+  },
+  "get_started_component": {
+    "get": "Get",
+    "started": "Started"
+  },
+  "mining_component": {
+    "title_first": "What's Bitcoin Mining",
+    "title_second": "And Why Do It?",
+    "subtitle": "Bitcoin mining is the process of verifying transactions and adding them to the blockchain, which requires powerful computers. We do it to ensure the future of Bitcoin and help secure the network."
+  },
+  "mining_difficulty_component": {
+    "title_first": "The Bitcoin Mining ",
+    "title_second": "Difficulty.",
+    "subtitle": "Bitcoin mining difficulty measures the challenge of mining new Bitcoin, adjusting every 2 week for 10-minute block times. Difficulty rises as more miners compete, ensuring network security."
+  },
+  "environment_component": {
+    "title_first": "Environmentally Friendly Facts",
+    "title_second": "About Our Mining.",
+    "subtitle_first": "Our mining sites are located in Mississippi and Georgia. Mississippi Power is the largest partner in renewable energy in Mississippi and is collaborating with four solar energy businesses and the U.S. Navy to build four utility-scale solar facilities. They generate over",
+    "subtitle_second": "of electricity, enough to power more than",
+    "subtitle_third": "for a year. Mississippi Power is also focusing on biomass power and pursuing wind energy generation in coastal areas. Georgia utilizes 4 nuclear reactors accounting for",
+    "subtitle_fourth": "of their total state power. They are also leading in electricity generation from biomass, with 20% renewable resources accounting for over",
+    "subtitle_fifth": "of the state's total in-state electricity net generation in 2021.",
+    "subtitle_data_one": "160 MW",
+    "subtitle_data_two": "23,000 homes",
+    "subtitle_data_three": "27%",
+    "subtitle_data_four": "one-tenth"
+  },
+  "button": {
+    "cta": "Start Mining Now",
+    "mining_difficulty": "Estimate Mining Returns",
+    "careers": "See Details",
+    "calculator": "Calculate",
+    "load_more": "Load More"
+  },
+  "calculator": {
+    "title": "Bitcoin Mining Calculator",
+    "hash": "Hash rate (TH/s)",
+    "power": "Power consumption (W)",
+    "kWh": "Cost per kWh ($)",
+    "price": "BTC price ($)",
+    "results": {
+      "revenue": "Daily Revenue:",
+      "cost": "Daily Power Cost:",
+      "profit": "Daily Profit:"
+    }
+  },
+  "article": {
+    "title": "Latest News",
+    "subtitle": "To stay informed about the latest happenings in the world of bitcoin, check out these news articles.",
+    "read_more": ". . .Read More",
+    "end_of_feed": ". . .End of Newsfeed. . ."
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "term_one": "1. ACCEPTANCE OF TERMS ",
+    "paragraph_one": "Please read and accept the Makerstar Capital Inc. Terms of Use (“Terms”) before using the www.makerstarcapital.com Web site or any other Web site maintained by Makerstar Capital Inc. (“Web site”). If you do not agree to all of the Terms, do not use this Web site. Makerstar Capital Inc. may update these Terms from time to time. Each time you use the Web site you will be operating under the Terms as they exist as of the time of use. Please check these terms prior to each use of our Web site. The Terms are entered into by and between Makerstar Capital Inc. and you. If you currently have in effect a separate written purchase or license agreement with Makerstar Capital Inc. for a service, that agreement shall govern the use of that service to the extent it conflicts with these Terms.",
+    "term_two": "2. DISCLAIMER ",
+    "paragraph_two": "Although Makerstar Capital Inc. has attempted to provide accurate information on the Web site, Makerstar Capital Inc. assumes no responsibility for the accuracy of the information. Makerstar Capital Inc. may change the programs or products mentioned at any time without notice. Mention of non- Makerstar Capital Inc. products or services is for information purposes only and constitutes neither an endorsement nor a recommendation. THE MATERIALS ARE PROVIDED “AS IS” WITHOUT AN EXPRESS OR IMPLIED WARRANTY OF ANY KIND INCLUDING WARRANTIES OF MERCHANTABILITY, NON- INFRINGEMENT OF INTELLECTUAL PROPERTY, OR FITNESS FOR ANY PARTICULAR PURPOSE. IN NO EVENT SHALL MAKERSTAR CAPITAL INC. OR ITS SUPPLIERS OR PARTNERS BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, LOSS OF INFORMATION) ARISING OUT OF THE USE OF OR INABILITY TO USE THE MATERIALS, EVEN IF MAKERSTAR CAPITAL INC. HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. ELECTRONIC COMMUNICATIONS PRIVACY ACT NOTICE (18USC 2701-2711): COMPANY MAKES NO GUARANTY OF CONFIDENTIALITY OR PRIVACY OF ANY COMMUNICATION OR INFORMATION TRANSMITTED ON THE SITE OR ANY WEB-SITE LINKED TO THE WEBSITE. Company will not be liable for the privacy of e-mail addresses, registration and identification information, disk space, communications, confidential or trade-secret information, or any other Content stored on Company’s equipment, transmitted over networks accessed by the Site, or otherwise connected with Subscriber’s use of the Services.",
+    "term_three": "3. INTELLECTUAL PROPERTY RIGHTS ",
+    "paragraph_three": "All content, including text, data, sound recordings, sound, photographs, graphics, video, or other materials (“Material”) provided on this Web site is provided by or to Makerstar Capital Inc. by its respective manufacturers, authors, developers and vendors (the “Third Party Providers”) and is the copyrighted work of Makerstar Capital Inc. and/or the Third Party Providers. Except as expressly authorized by Makerstar Capital Inc. or the Third Party Provider, none of the Material may be copied, reproduced, distributed, republished, downloaded, displayed, posted or transmitted in any form or by any means, including, but not limited to, electronic, mechanical, photocopying, recording, or otherwise. No part of the Web site, including logos, graphics, sounds or images, may be reproduced or retransmitted in any way, or by any means, without the prior express written permission of Makerstar Capital Inc. You also may not, without Makerstar Capital Inc.’s prior express written permission, copy any Materials contained on this Web site on any other server, or use any Makerstar Capital Inc. Marks for any purpose. “Makerstar Capital Inc. Marks” refers to any names, marks, brands, logos, designs, slogans, trademarks, services marks and other designations Makerstar Capital Inc. uses in connection with its products or services. Individuals who believe that their intellectual property rights have been infringed on the Web site, may contact Makerstar Capital Inc. and request that the infringing material be removed or access to it blocked. Makerstar Capital Inc. will investigate those complaints. Where Makerstar Capital Inc. is satisfied that the infringement is taking place, it will take appropriate action. If you believe your intellectual property rights are being infringed, please direct your claims to: General Counsel, Makerstar Capital Inc., Park Plaza STE 1230 Irvine, CA 92614.",
+    "term_four": "4. TRADEMARKS ",
+    "paragraph_four": "The trademarks, logos and service marks (“Marks”) displayed on this Web site are the property of Makerstar Capital Inc. or other third parties. Users are not permitted to use these Marks without the prior written consent of Makerstar Capital Inc. or such third party which may own the Mark.",
+    "term_five": "5. LINKS TO THIRD PARTY SITES ",
+    "paragraph_five": "This Web site may contain links to third party sites. Access to any other Internet site linked to this Web site is at the user’s own risk and Makerstar Capital Inc. is not responsible for the accuracy or reliability of any information, data, opinions, advice or statements made on these sites. Makerstar Capital Inc. provides these links merely as a convenience and the inclusion of such links does not imply an endorsement."
+  }
+}
