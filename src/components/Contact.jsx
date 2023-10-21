@@ -74,7 +74,7 @@ export const Contact = () => {
       >
         <label className="text-sm">{t("form_message.your_name")}</label>
         <input
-          className={`border-b bg-primary w-full rounded-md px-4 py-2 outline-none focus:border-b-2 focus:border-b-makerGold`}
+          className={`border bg-primary w-full rounded-full px-4 py-2 outline-none focus:border-1 focus:border-b-makerGold`}
           type="text"
           id="name"
           {...register("name")}
@@ -86,7 +86,7 @@ export const Contact = () => {
 
         <label className="text-sm">{t("form_message.your_email")}</label>
         <input
-          className="border-b bg-primary w-full rounded-md px-4 py-2 outline-none focus:border-b-2 focus:border-b-makerGold"
+          className="border bg-primary w-full rounded-full px-4 py-2 outline-none focus:border-1 focus:border-b-makerGold"
           type="email"
           id="email"
           {...register("email")}
@@ -98,7 +98,7 @@ export const Contact = () => {
 
         <label className="text-sm">{t("form_message.your_message")}</label>
         <textarea
-          className="border-b bg-primary w-full rounded-md px-4 py-2 outline-none focus:border-b-2 focus:border-b-makerGold "
+          className="border bg-primary w-full rounded-2xl px-4 py-2 outline-none focus:border-1 focus:border-b-makerGold "
           id="message"
           {...register("message")}
           tabIndex="3"
@@ -113,7 +113,7 @@ export const Contact = () => {
           type="submit"
           tabIndex="4"
           id="send-msg"
-          className="tracking-wide hover:bg-gradient-to-r rounded-md hover:from-white hover:to-makerGold hover:tracking-widest transition ease-in-out hover:scale-105 duration-300 hover:text-black"
+          className="tracking-wide border rounded-xl hover:shadow-sm hover:shadow-makerGold leading-9 hover:text-makerGold"
         >
           <span style={{ paddingLeft: 0 }}>
             {t("form_message.send_button")}

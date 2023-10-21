@@ -153,25 +153,26 @@ const App = () => {
         <Route
           path="careers"
           element={
-            <>
-              <div className={`relative bg-primary ${styles.flexStart} `}>
-                <div className={`${styles.boxWidth}`}>
-                  <LazySubHero
-                    firstHalf={t(subHeroHeaders[3].firstHalf)}
-                    featuredWords={t(subHeroHeaders[3].featuredWords)}
-                    secondHalf={t(subHeroHeaders[3].secondHalf)}
-                    hImage={careershero}
-                  />
-                </div>
-              </div>
-              <div
-                className={`bg-primary ${styles.paddingX} ${styles.flexStart}`}
-              >
-                <div className={`${styles.boxWidth}`}>
-                  <LazyCareers /> <Footer />
-                </div>
-              </div>
-            </>
+            <LazyCareers />
+            // <>
+            //   <div className={`relative bg-primary ${styles.flexStart} `}>
+            //     <div className={`${styles.boxWidth}`}>
+            //       <LazySubHero
+            //         firstHalf={t(subHeroHeaders[3].firstHalf)}
+            //         featuredWords={t(subHeroHeaders[3].featuredWords)}
+            //         secondHalf={t(subHeroHeaders[3].secondHalf)}
+            //         hImage={careershero}
+            //       />
+            //     </div>
+            //   </div>
+            //   <div
+            //     className={`bg-primary ${styles.paddingX} ${styles.flexStart}`}
+            //   >
+            //     <div className={`${styles.boxWidth}`}>
+            //       <LazyCareers /> <Footer />
+            //     </div>
+            //   </div>
+            // </>
           }
         ></Route>
         <Route path="terms-of-service" element={<LazyToS />}></Route>
