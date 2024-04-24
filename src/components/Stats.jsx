@@ -6,6 +6,8 @@ import { useTranslation } from "react-i18next";
 import { stats } from "../constants";
 import styles from "../style";
 
+const apiKey = import.meta.env.VITE_APP_COINSTATS_API_KEY;
+
 const Stats = () => {
   const [ref, isVisible] = useVisibility();
   const [bitcoinPrice, setBitcoinPrice] = useState("0");
@@ -15,9 +17,17 @@ const Stats = () => {
     const fetchBitcoinPrice = async () => {
       try {
         const response = await axios.get(
-          "https://api.coinstats.app/public/v1/coins?skip=0&limit=1"
+          "https://openapiv1.coinstats.app/coins/bitcoin",
+          {
+            headers: {
+              "X-API-KEY": apiKey,
+              accept: "application/json",
+            },
+          }
         );
-        setBitcoinPrice(response.data.coins[0].price);
+
+        setBitcoinPrice(response.data.price);
+        //console.log(response);
       } catch (error) {
         console.error("Error fetching Bitcoin price:", error);
       }
