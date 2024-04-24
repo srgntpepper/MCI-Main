@@ -29,12 +29,12 @@ i18next
             bitcoin_future: {
               title: "Why Bitcoin is the Future",
               content:
-                "Revolutionizes finance,increases security, and supportsglobal economy.",
+                "Revolutionizes finance, increases security, and supports global economy.",
             },
             secure: {
               title: "100% Secure",
               content:
-                "Immutable blockchain,cryptography, and decentralizednetwork provide unparalleledsecurity.",
+                "Immutable blockchain, cryptography, and decentralized network provide unparalleled security.",
             },
           },
           sub_hero_headers: {

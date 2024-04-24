@@ -38,21 +38,21 @@ const Environment = () => {
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           {t("environment_component.subtitle_first")}{" "}
           <span className="text-gradient">
-            {t("environment_component.subtitle_data_one")}
+            {t("environment_component.subtitle_data_one")}{" "}
           </span>
-          {t("environment_component.subtitle_second")}
+          {t("environment_component.subtitle_second")}{" "}
           <span className="text-gradient">
             {t("environment_component.subtitle_data_two")}
           </span>{" "}
           {t("environment_component.subtitle_third")}{" "}
           <span className="text-gradient">
-            {t("environment_component.subtitle_data_three")}
+            {t("environment_component.subtitle_data_three")}{" "}
           </span>
           {t("environment_component.subtitle_fourth")}{" "}
           <span className="text-gradient">
-            {t("environment_component.subtitle_data_four")}
+            {t("environment_component.subtitle_data_four")}{" "}
           </span>
-          {t("environment_component.subtitle_fifth")}
+          {t("environment_component.subtitle_fifth")}{" "}
         </p>
       </div>
     </section>
